@@ -1,0 +1,5 @@
+Hãy tải các thư viện sau ( có sẵn trên adruino IDE ) để chương trình chạy ổn nhất
+- Adafruit_GFX
+- Adafruit_SSD1306
+- DabbleESP32 (Bản 1.5.1 là ổn nhất)
+- ESP32Servo (Bản 3.0.0 ổn nhất)
