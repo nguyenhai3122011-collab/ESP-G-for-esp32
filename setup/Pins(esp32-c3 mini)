@@ -5,3 +5,5 @@ DOWN_BUTTON ==> 0
 ACTION_BUTTON ==> 21
 BACK_BUTTON ==> 3
 BUZZER_PIN ==> 10
+
+=== Các bạn có thể tự setup lại chân trong file ino để phù hợp với project của bạn nha ===
